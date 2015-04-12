@@ -1,2 +1,1 @@
-# datasciencecoursera
-Git repo for Data science course on coursera
+## This is a markdown file
